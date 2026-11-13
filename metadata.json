@@ -1,0 +1,11 @@
+{
+  "name": "NPU.MDB",
+  "description": "Smart MDB monitoring & breaker control app with ESP32 integration for current, temperature, humidity, smoke, and voltage with automatic circuit breaker safety tripping.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "currentLimit": 2,
+  "temperatureLimit": 80,
+  "humidityLimit": 80,
+  "maxCurrentLimit": 2,
+  "maxTempLimit": 80,
+  "maxHumidityLimit": 80
+}
